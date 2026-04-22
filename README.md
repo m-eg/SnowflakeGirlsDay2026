@@ -1,6 +1,6 @@
 # Snowy's Daten-Detektive
 
-![Snowy's Daten-Detektive Banner](assets/banner.png)
+![Snowy's Daten-Detektive Banner](assets/girlsday.png)
 
 Ein interaktiver SQL-Workshop für Kinder und Jugendliche ohne Vorkenntnisse. Ursprünglich entwickelt für den Girls' Day 2026 bei Snowflake. Die Teilnehmenden lösen gemeinsam einen Detektivfall, indem sie eine Snowflake-Datenbank mit SQL befragen.
 
